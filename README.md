@@ -1,15 +1,36 @@
-# YOUR DOMAIN README
+# Data Requests
 
 ## Intro
 
-This should be replaced by content that fits your domain.
+The Data Requests domain's purpose is to receive and process incoming data request from Market Participants.
 
-Before you start editing this repository, please read the [TEMPLATE README](./docs/template-readme/README.md)
+These are the business processes maintained by this domain.
+
+| Processes |
+| ------------- |
+| [Master data request](docs/business-processes/master-data-request.md) |
+| ... |
 
 ## Architecture
 
 ![design](ARCHITECTURE.png)
 
+## Context Streams
+
+This sections documents the dataflows to and from the data requests domain.
+
+TODO - Add dataflow diagram.
+
 ## Domain Road Map
 
 No work planned in current program increment.
+
+## Getting Started
+
+Learn how to get started with Green Energy Hub [here](https://github.com/Energinet-DataHub/green-energy-hub/blob/main/docs/getting-started.md).
+
+## Where can I get more help?
+
+Read about the community for Green Energy Hub [here](https://github.com/Energinet-DataHub/green-energy-hub/blob/main/COMMUNITY.md) and learn about how to get involved and get help.
+
+Please note that we have provided a [Dictionary](https://github.com/Energinet-DataHub/green-energy-hub/tree/main/docs/dictionary-and-concepts) to help understand many of the terms used throughout the repository.
