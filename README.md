@@ -2,9 +2,9 @@
 
 ## Intro
 
-The Data Requests domain's purpose is to receive and process incoming data request from Market Participants.
+The purpose of the Data Requests domain is to receive and process incoming data requests from Market Participants.
 
-These are the business processes maintained by this domain.
+These are the business processes expected to be maintained by this domain.
 
 | Processes |
 | ------------- |
