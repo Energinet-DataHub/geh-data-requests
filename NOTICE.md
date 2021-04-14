@@ -11,7 +11,7 @@ Microsoft NuGet packages have been omitted from this list.
 | `.NET Core` | 3.1 | https://dotnet.microsoft.com/download/dotnet/3.1 | MIT |
 | `Azure CLI (Apt Package?)` | Current | ? | ? |
 | `coverlet.collector` | 1.2.0 | https://www.nuget.org/packages/coverlet.collector/1.2.0 | MIT |
-| `Fluent Assertions` | 5.1.3 | https://www.nuget.org/packages/FluentAssertions/5.10.3/ | Apache-2.0 |
+| `Fluent Assertions` | 5.10.3 | https://www.nuget.org/packages/FluentAssertions/5.10.3/ | Apache-2.0 |
 | `git` | Depends on build machine? | ? | ? |
 | `NSubstitute` | 4.2.2 | https://www.nuget.org/packages/NSubstitute/4.2.2 | BSD-3-Clause |
 | `Python` | 3.7 (which minor?) | ? | ? |
