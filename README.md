@@ -17,7 +17,7 @@ These are the business processes expected to be maintained by this domain.
 
 ## Context Streams
 
-This sections documents the dataflows to and from the data requests domain.
+This sections documents the data flows to and from the data requests domain.
 
 ![Context streams](./images/DataRequestsContextStreams.png "Data Requests context streams")
 
